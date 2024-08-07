@@ -4,8 +4,10 @@ SK8TE is your tool to configure and manage Stryd sensors. Capabilities include, 
 
 ## Installation
 
-Currently, SK8TE is compatible with **Windows 10/11 PCs** with Bluetooth capabilities. You can download the latest installer [here](https://github.com/mcgregol/sk8te/releases). Once downloaded, run the installer. 
+Currently, SK8TE is compatible with **Windows 10/11 PCs** with Bluetooth capabilities. You can download the latest installer [here](https://github.com/mcgregol/sk8te/releases). Once downloaded, run the installer.
+
 ![1](https://github.com/mcgregol/sk8te/blob/main/thumbnail.png?raw=true)
+
 > **Note:** if you receive a "Windows protected your PC" message, select **More info**, then **Run anyway**. The SK8TE application was not designed by Microsoft, hence the warning. 
 
 You may now proceed through the installation.
