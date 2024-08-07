@@ -17,7 +17,6 @@ You may now proceed through the installation.
 Once installed, SK8TE can be accessed through the **Start Menu** or via **desktop shortcut** if opted into by the user during installation. Below is the main screen of the application.
 
 ![main](https://github.com/mcgregol/sk8te/blob/main/main.png?raw=true)
-
 In order to begin interacting with the Stryds, we need to scan for available ones. Please ensure any Stryds you intend on working with are sufficiently charged and within close proximity of your computer.
 > **Note:** Please ensure bluetooth is enabled
 
@@ -54,5 +53,10 @@ The Stryd label<sup>[6]</sup> displays the current Stryd being assigned. In this
 As you can see in the top right of the form<sup>[7]</sup>, this Stryd is the first of two selected for assignment. Once this Stryd is assigned or skipped, the program will move to the next one, which will begin blinking, and the assignment process will repeat until all Stryds in the list are iterated through.
 
 ### Importing and Exporting a Team
+Although an assigned Stryd's weight is persistently saved to the hardware of the sensor, player assignments are stored on the computer running the SK8TE app. As a result, these assignments only originally register to that instance of SK8TE.
+
+>**Note:** Be sure to export your team assignments before upgrading SK8TE, as they **will** be overwritten.
+
+To export Stryd player assignments, navigate to the top left of the screen and select **Extra** > **Export Database**. Specify a filename (such as the team name),  and save the JSON file. These player assignments can now be used on another device running SK8TE. To import, select **Extra** > **Import Database**.
 
 ## Exporting Data
