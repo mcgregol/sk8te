@@ -18,6 +18,7 @@ Once installed, SK8TE can be accessed through the **Start Menu** or via **deskto
 
 ![main](https://github.com/mcgregol/sk8te/blob/main/main.png?raw=true)
 In order to begin interacting with the Stryds, we need to scan for available ones. Please ensure any Stryds you intend on working with are sufficiently charged and within close proximity to your computer.
+> **Note:** Please ensure bluetooth is enabled
 
 To begin, select **Scan**<sup>[1]</sup> to begin a 10 second scan for available devices. Once the scan is completed, a list of hardware addresses will appear in the **sensor listbox**<sup>[2]</sup>.
 
@@ -37,6 +38,7 @@ You can delete the current file by clicking the **Remove** button in the file ex
 
 You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
 
+### Importing and Exporting a Team
 
 ## Exporting Data
 
