@@ -1,6 +1,6 @@
 # SK8TE User Manual by ACHIEVE
 
-SK8TE is your tool to configure and manage Stryd sensors. Capabilities include, player assignment, clock synchronization, hardware identification, and data extraction.
+SK8TE is your tool to configure and manage Stryd sensors. Capabilities include player assignment, clock synchronization, hardware identification, and data extraction.
 
 ## Installation
 
@@ -14,7 +14,12 @@ You may now proceed through the installation.
 
 ## Usage
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+Once installed, SK8TE can be accessed through the **Start Menu** or via **desktop shortcut** if opted into by the user during installation. Below is the main screen of the application.
+
+![main](https://github.com/mcgregol/sk8te/blob/main/main.png?raw=true)
+In order to begin interacting with the Stryds, we need to scan for available ones. Please ensure any Stryds you intend on working with are sufficiently charged and within close proximity to your computer.
+
+To begin, select **Scan**<sup>[1]</sup> to begin a 10 second scan for available devices. Once the scan is completed, a list of hardware addresses will appear in the **sensor listbox**<sup>[2]</sup>.
 
 ## Switch to another file
 
