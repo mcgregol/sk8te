@@ -4,7 +4,7 @@ SK8TE is your tool to configure and manage SK8TE sensors. Capabilities include p
 
 ## Installation
 
-Currently, SK8TE is compatible with **Windows 10/11** machines with Bluetooth capabilities. You can download the latest installer [here](https://github.com/mcgregol/sk8te/releases). Once downloaded, run the installer.
+Currently, SK8TE is compatible with **Windows 10/11** machines with Bluetooth capabilities. You can download the latest installer [here](https://github.com/mcgregol/sk8te/releases/latest). Once downloaded, run the installer.
 
 ![1](https://github.com/mcgregol/sk8te/blob/main/thumbnail.png?raw=true)
 
