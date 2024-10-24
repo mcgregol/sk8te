@@ -1,6 +1,6 @@
 # SK8TE User Manual by ACHIEVE
 
-SK8TE is your tool to configure and manage SK8TE sensors. Capabilities include player assignment, clock synchronization, hardware identification, and data extraction.
+SK8TE is your tool to configure and manage SK8TE sensors. Capabilities include player assignment, clock synchronization, hardware identification, and data extraction; all within a team setting on one or multiple sensors.
 
 ## Installation
 
