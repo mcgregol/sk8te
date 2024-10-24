@@ -25,7 +25,7 @@ To begin, select **Scan**<sup>[1]</sup> to begin a 10 second scan for available 
 
 ### Blink
 
-Sensor(s) will asynchronously flash their LED until stopped by the user. The blink function is useful for identifying a physical piece of hardware.
+Sensor(s) will asynchronously flash their LED until stopped by the user. The blink function is useful for identifying and tracking physical sensors within the application.
 >**Example:** A specific sensor in the SK8TE app needs to be physically labelled
 
 ### Erase
@@ -34,12 +34,12 @@ Sensor(s) onboard storage will be cleared. This cannot be undone and any data no
 
 ### Sync Clock
 
-Sensor(s) internal clock will be updated to that of the SK8TE app's computer. The timestamps within data collected by a SK8TE sensor will **not** be correct if the sensor clock is out of sync.
+Sensor(s) internal clock will be synchronized with the clock of the computer running the SK8TE app. The timestamps within data collected by a SK8TE sensor will **not** be correct if the sensor clock is out of sync.
 >**Note:** If the computer clock is wrong during synchronization, the sensors's clock will also be wrong
 
 ## Assign Devices and Build Your Team
 
-In order to collect accurate data and increase ease of use, it is important to assign a player to a device. You can update essential player attributes such as weight, and once assigned the SK8TE app will list the player instead of a hardware address in the listbox. In the diagram below, the first sensor<sup>[4]</sup> **has** been assigned, whereas the second sensor<sup>[5]</sup> **has not**, and a hardware address is displayed instead.
+In order to collect accurate data and increase ease of use, it is important to assign a player to a device. You can update player attributes such as weight, player name/number, etc. Once assigned, the SK8TE app will list the player's information in the listbox. Unassigned players will be displayed using their MAC address. In the diagram below, the first sensor<sup>[4]</sup> **has** been assigned, whereas the second sensor<sup>[5]</sup> **has not.**
 
 ![diag](https://github.com/mcgregol/sk8te/blob/main/Screenshot%202024-08-07%20123129.png?raw=true)
 
